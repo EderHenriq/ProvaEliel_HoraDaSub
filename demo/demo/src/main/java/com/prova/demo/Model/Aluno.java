@@ -26,7 +26,7 @@ public class Aluno {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Aluno id) {
         this.id = id;
     }
 
